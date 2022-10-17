@@ -10,12 +10,12 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="numbers">
-                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Today's Money</p>
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Today's Petrol Price</p>
                                     <h5 class="font-weight-bolder">
-                                        $53,000
+                                        Rs.116
                                     </h5>
                                     <p class="mb-0">
-                                        <span class="text-success text-sm font-weight-bolder">+55%</span>
+                                        <span class="text-success text-sm font-weight-bolder">+40%</span>
                                         since yesterday
                                     </p>
                                 </div>
@@ -35,9 +35,9 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="numbers">
-                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Today's Users</p>
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Today's Disel Price</p>
                                     <h5 class="font-weight-bolder">
-                                        2,300
+                                       Rs.102
                                     </h5>
                                     <p class="mb-0">
                                         <span class="text-success text-sm font-weight-bolder">+3%</span>
@@ -60,13 +60,13 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="numbers">
-                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">New Clients</p>
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Launched Cars</p>
                                     <h5 class="font-weight-bolder">
-                                        +3,462
+                                        -4
                                     </h5>
                                     <p class="mb-0">
                                         <span class="text-danger text-sm font-weight-bolder">-2%</span>
-                                        since last quarter
+                                         Last day
                                     </p>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@
                                 <div class="numbers">
                                     <p class="text-sm mb-0 text-uppercase font-weight-bold">Sales</p>
                                     <h5 class="font-weight-bolder">
-                                        $103,430
+                                        Rs.103,430
                                     </h5>
                                     <p class="mb-0">
                                         <span class="text-success text-sm font-weight-bolder">+5%</span> than last month
@@ -189,27 +189,27 @@
                                                 <img src="./img/icons/flags/US.png" alt="Country flag">
                                             </div>
                                             <div class="ms-4">
-                                                <p class="text-xs font-weight-bold mb-0">Country:</p>
-                                                <h6 class="text-sm mb-0">United States</h6>
+                                                <p class="text-xs font-weight-bold mb-0">Manufacturer:</p>
+                                                <h6 class="text-sm mb-0">TATA</h6>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Sales:</p>
-                                            <h6 class="text-sm mb-0">2500</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Model:</p>
+                                            <h6 class="text-sm mb-0">Nexon</h6>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                            <h6 class="text-sm mb-0">$230,900</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Fuel Type:</p>
+                                            <h6 class="text-sm mb-0">Petrol</h6>
                                         </div>
                                     </td>
                                     <td class="align-middle text-sm">
                                         <div class="col text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                            <h6 class="text-sm mb-0">29.9%</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Milege:</p>
+                                            <h6 class="text-sm mb-0">21 KMPL</h6>
                                         </div>
                                     </td>
                                 </tr>
@@ -220,27 +220,27 @@
                                                 <img src="./img/icons/flags/DE.png" alt="Country flag">
                                             </div>
                                             <div class="ms-4">
-                                                <p class="text-xs font-weight-bold mb-0">Country:</p>
-                                                <h6 class="text-sm mb-0">Germany</h6>
+                                                <p class="text-xs font-weight-bold mb-0">Manufacturer:</p>
+                                                <h6 class="text-sm mb-0">Wolkswagen</h6>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Sales:</p>
-                                            <h6 class="text-sm mb-0">3.900</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Model:</p>
+                                            <h6 class="text-sm mb-0">Polo</h6>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                            <h6 class="text-sm mb-0">$440,000</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Fuel Type:</p>
+                                            <h6 class="text-sm mb-0">Petrol</h6>
                                         </div>
                                     </td>
                                     <td class="align-middle text-sm">
                                         <div class="col text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                            <h6 class="text-sm mb-0">40.22%</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Milege:</p>
+                                            <h6 class="text-sm mb-0">25 KMPL</h6>
                                         </div>
                                     </td>
                                 </tr>
@@ -251,27 +251,27 @@
                                                 <img src="./img/icons/flags/GB.png" alt="Country flag">
                                             </div>
                                             <div class="ms-4">
-                                                <p class="text-xs font-weight-bold mb-0">Country:</p>
-                                                <h6 class="text-sm mb-0">Great Britain</h6>
+                                                <p class="text-xs font-weight-bold mb-0">Manufacturer:</p>
+                                                <h6 class="text-sm mb-0">Mahindra</h6>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Sales:</p>
-                                            <h6 class="text-sm mb-0">1.400</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Model:</p>
+                                            <h6 class="text-sm mb-0">Mahindra THAR</h6>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                            <h6 class="text-sm mb-0">$190,700</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Fuel Type:</p>
+                                            <h6 class="text-sm mb-0">Disel</h6>
                                         </div>
                                     </td>
                                     <td class="align-middle text-sm">
                                         <div class="col text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                            <h6 class="text-sm mb-0">23.44%</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Milege:</p>
+                                            <h6 class="text-sm mb-0">23 KMPL</h6>
                                         </div>
                                     </td>
                                 </tr>
@@ -282,27 +282,27 @@
                                                 <img src="./img/icons/flags/BR.png" alt="Country flag">
                                             </div>
                                             <div class="ms-4">
-                                                <p class="text-xs font-weight-bold mb-0">Country:</p>
-                                                <h6 class="text-sm mb-0">Brasil</h6>
+                                                <p class="text-xs font-weight-bold mb-0">Manufacturer:</p>
+                                                <h6 class="text-sm mb-0">BMW</h6>
                                             </div>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Sales:</p>
-                                            <h6 class="text-sm mb-0">562</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Model:</p>
+                                            <h6 class="text-sm mb-0">GT Sereis</h6>
                                         </div>
                                     </td>
                                     <td>
                                         <div class="text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                            <h6 class="text-sm mb-0">$143,960</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Fuel Type:</p>
+                                            <h6 class="text-sm mb-0">Petrol</h6>
                                         </div>
                                     </td>
                                     <td class="align-middle text-sm">
                                         <div class="col text-center">
-                                            <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                            <h6 class="text-sm mb-0">32.14%</h6>
+                                            <p class="text-xs font-weight-bold mb-0">Milege:</p>
+                                            <h6 class="text-sm mb-0">12 KMPL</h6>
                                         </div>
                                     </td>
                                 </tr>
@@ -324,9 +324,10 @@
                                         <i class="ni ni-mobile-button text-white opacity-10"></i>
                                     </div>
                                     <div class="d-flex flex-column">
-                                        <h6 class="mb-1 text-dark text-sm">Devices</h6>
-                                        <span class="text-xs">250 in stock, <span class="font-weight-bold">346+
-                                                sold</span></span>
+                                        <h6 class="mb-1 text-dark text-sm">AI Cars</h6>
+                                        <span class="text-xs">Tesla in progress, <span class="font-weight-bold">
+                                            More than 18,000 Cars are Sold    
+                                        </span></span>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -341,9 +342,10 @@
                                         <i class="ni ni-tag text-white opacity-10"></i>
                                     </div>
                                     <div class="d-flex flex-column">
-                                        <h6 class="mb-1 text-dark text-sm">Tickets</h6>
-                                        <span class="text-xs">123 closed, <span class="font-weight-bold">15
-                                                open</span></span>
+                                        <h6 class="mb-1 text-dark text-sm">Offer for New Buyers</h6>
+                                        <span class="text-xs">Accessories <span class="font-weight-bold">
+                                                DRL Lights Must be Provided
+                                        </span></span>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -358,9 +360,9 @@
                                         <i class="ni ni-box-2 text-white opacity-10"></i>
                                     </div>
                                     <div class="d-flex flex-column">
-                                        <h6 class="mb-1 text-dark text-sm">Error logs</h6>
+                                        <h6 class="mb-1 text-dark text-sm">Review of Upcoming Cars</h6>
                                         <span class="text-xs">1 is active, <span class="font-weight-bold">40
-                                                closed</span></span>
+                                                closed Working on progress</span></span>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -375,7 +377,7 @@
                                         <i class="ni ni-satisfied text-white opacity-10"></i>
                                     </div>
                                     <div class="d-flex flex-column">
-                                        <h6 class="mb-1 text-dark text-sm">Happy users</h6>
+                                        <h6 class="mb-1 text-dark text-sm">Happy Customers</h6>
                                         <span class="text-xs font-weight-bold">+ 430</span>
                                     </div>
                                 </div>

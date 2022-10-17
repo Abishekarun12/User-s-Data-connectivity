@@ -57,22 +57,17 @@
                         <div
                             class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 end-0 text-center justify-content-center flex-column">
                             <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden"
-                                style="background-image: url('https://c4.wallpaperflare.com/wallpaper/619/530/458/colorful-gradient-4k-wallpaper-preview.jpg');
+                                style="background-image: url('https://wallpapercrafter.com/th800/3058-bmw-steering-wheel-hand-interior-watches-4k.jpg');
               background-size: cover;">
                                 <span class="mask bg-gradient-primary opacity-6"></span>
-                                <h4 class="mt-5 text-white font-weight-bolder position-relative">"Connecting Database with login page"</h4>
+                                <h4 class="mt-5 text-white font-weight-bolder position-relative">"Driving is Also a Therapy"</h4>
 
                                 <p>
 
                                 </p>
 
-                                <p class="text-white position-relative">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                    It has survived not only five centuries, but also the leap into electronic typesetting,
-                                    remaining essentially unchanged. It was popularised in the 1960s with the release of
-                                    Letraset sheets containing Lorem Ipsum passages,and more recently with desktop publishing software
-                                     like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                <p class="text-white position-relative">If everything seems under control,
+                                     you’re just not going fast enough..</p>
                             </div>
                         </div>
                     </div>

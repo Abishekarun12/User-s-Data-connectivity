@@ -5,7 +5,11 @@
     <div class="container-fluid py-4">
         <div class="row">
             <div class="col-12">
-                <div class="card mb-4">
+                 <div class="card mb-4">
+                 <a 
+                    href="cars/create" class="card-header pb-4">
+                        <h6>Add a New Car &rarr;</h6>
+                    </a>
                     <div class="card-header pb-0">
                         <h6>Authors table</h6>
                     </div>
@@ -15,17 +19,22 @@
                                 <thead>
                                     <tr>
                                         <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                            Author</th>
+                                            Manufacturer
+                                        </th>
                                         <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">
-                                            Function</th>
+                                            Model
+                                        </th>
                                         <th
                                             class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                            Status</th>
+                                            In India
+                                        </th>
                                         <th
                                             class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                            Employed</th>
+                                            Launched Year
+                                        </th>
                                         <th class="text-secondary opacity-7"></th>
                                     </tr>
+                                    
                                 </thead>
                                 <tbody>
                                     <tr>
@@ -36,20 +45,20 @@
                                                         alt="user1">
                                                 </div>
                                                 <div class="d-flex flex-column justify-content-center">
-                                                    <h6 class="mb-0 text-sm">John Michael</h6>
-                                                    <p class="text-xs text-secondary mb-0">john@creative-tim.com</p>
+                                                    <h6 class="mb-0 text-sm">TATA</h6>
+                                                    <p class="text-xs text-secondary mb-0">Ratan Tata from India</p>
                                                 </div>
                                             </div>
                                         </td>
                                         <td>
-                                            <p class="text-xs font-weight-bold mb-0">Manager</p>
-                                            <p class="text-xs text-secondary mb-0">Organization</p>
+                                            <p class="text-xs font-weight-bold mb-0">Nexon</p>
+                                            <p class="text-xs text-secondary mb-0">Petrol</p>
                                         </td>
                                         <td class="align-middle text-center text-sm">
-                                            <span class="badge badge-sm bg-gradient-success">Online</span>
+                                            <span class="badge badge-sm bg-gradient-success">Launched</span>
                                         </td>
                                         <td class="align-middle text-center">
-                                            <span class="text-secondary text-xs font-weight-bold">23/04/18</span>
+                                            <span class="text-secondary text-xs font-weight-bold">23/04/21</span>
                                         </td>
                                         <td class="align-middle">
                                             <a href="javascript:;" class="text-secondary font-weight-bold text-xs"
@@ -58,7 +67,7 @@
                                             </a>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    {{-- <tr>
                                         <td>
                                             <div class="d-flex px-2 py-1">
                                                 <div>
@@ -66,20 +75,20 @@
                                                         alt="user2">
                                                 </div>
                                                 <div class="d-flex flex-column justify-content-center">
-                                                    <h6 class="mb-0 text-sm">Alexa Liras</h6>
-                                                    <p class="text-xs text-secondary mb-0">alexa@creative-tim.com</p>
+                                                    <h6 class="mb-0 text-sm">Mahindra</h6>
+                                                    <p class="text-xs text-secondary mb-0">Anand Gopal Mahindra,India</p>
                                                 </div>
                                             </div>
                                         </td>
                                         <td>
-                                            <p class="text-xs font-weight-bold mb-0">Programator</p>
-                                            <p class="text-xs text-secondary mb-0">Developer</p>
+                                            <p class="text-xs font-weight-bold mb-0">Mahindra Thar</p>
+                                            <p class="text-xs text-secondary mb-0">Diesel</p>
                                         </td>
                                         <td class="align-middle text-center text-sm">
-                                            <span class="badge badge-sm bg-gradient-secondary">Offline</span>
+                                            <span class="badge badge-sm bg-gradient-secondary">Not Launched</span>
                                         </td>
                                         <td class="align-middle text-center">
-                                            <span class="text-secondary text-xs font-weight-bold">11/01/19</span>
+                                            <span class="text-secondary text-xs font-weight-bold">11/01/2020</span>
                                         </td>
                                         <td class="align-middle">
                                             <a href="javascript:;" class="text-secondary font-weight-bold text-xs"
@@ -207,7 +216,8 @@
                                                 Edit
                                             </a>
                                         </td>
-                                    </tr>
+                                    </tr> --}}
+                                    
                                 </tbody>
                             </table>
                         </div>
